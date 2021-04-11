@@ -135,7 +135,7 @@ the browser, index.php is automatically rendered.
 
 
 # E-R Diagram
-
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/er.jpg" alt="er diagram" />
 
 # Relational Schema
 
@@ -1053,6 +1053,8 @@ messages m, threads t
 #### implemented using google maps API. Also, there is a block dropdown which can be
 
 #### used alternatively.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/1.jpg" />
+
 
 
 #### o Showing the number of people in the neighbourhood of a user, when the user logs in. It
@@ -1060,10 +1062,12 @@ messages m, threads t
 #### would display the blocks in the neighbourhood of the logged in user with number of
 
 #### people in each block.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/2.png" />
 
 #### o Initiating threads with various options like initiating to the whole hood, block, all friends
 
 #### or personally to a friend or a neighbour.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/3.png" />
 
 #### o Every thread initiated is segregated into tabs based on the reciepient type. Every thread
 
@@ -1074,18 +1078,19 @@ messages m, threads t
 #### o Users can mark the received messages as Read which then gets stored into database as
 
 #### read.
-
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/4.png" />
 
 #### o The second page is pending approvals where the user would get the request to approve
 
 #### if a new member requests to join the same block. The approver can see the new users
 
 #### name and intro before approving.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/5.png" />
 
 #### o Next we the connections tab where the user can see his/her friends and neighbours.They
 
 #### can add friends and neighbours as well on friends and neighbours page respectively
-
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/6.jpg" />
 
 #### o Also, there is profile page where user can see his/her profile information. Also they have
 
@@ -1094,12 +1099,14 @@ messages m, threads t
 #### user clicks on update, he/she would be able to see the changed information in his/her
 
 #### profile.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/7.png" />
 
 #### o The user can also opt for an address change after which the user would be logged out
 
 #### automatically and would have to go through the approval process again. There is
 
 #### validation here that the user cannot select the block which he/she is already in.
+<img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/8.png" />
 
 # Attached files
 
