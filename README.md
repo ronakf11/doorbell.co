@@ -1,5 +1,5 @@
 # doorbell.co
-Social Network for Neighborhoods
+Social Network for Neighborhoods (<a href="https://github.com/ronakf11/doorbell.co/blob/main/assets/GA1380_RF1999_PDS_Project%20Report.pdf"> PDF VERSION</a>)
 
 
 Execution Process:
@@ -7,15 +7,6 @@ Place the folder “pro4” under htdocs folder at Xampp installation root folde
 Execute all three SQL files on the server.
 After starting the apache and database server (port: 3307), go to “http://localhost/pro4/” in
 the browser, index.php is automatically rendered.
-
-# Principles of Database Systems (CS-GY 6083)
-
-# Project (Group 24)
-
-# Gaurav Agrawal (ga1380)
-
-# Ronak Fofaliya (rf1999)
-
 
 # Table of Contents
 
