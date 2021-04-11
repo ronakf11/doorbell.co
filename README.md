@@ -1099,20 +1099,3 @@ messages m, threads t
 #### validation here that the user cannot select the block which he/she is already in.
 <img src="https://github.com/ronakf11/doorbell.co/blob/main/assets/8.png" />
 
-# Attached files
-
-#### Along with this file a zipped folder ( ga138 0 - rf1999-pdsproject ) is attached which contains the
-
-#### following:
-
-#### 1. The folder ( pro4 ) for all the PHP code.
-
-#### 2. A readme on how to run the code.
-
-#### 3. Script to create the schema ( Schema.sql )
-
-#### 4. Script to Insert predefined blocks and hoods ( Insert.sql )
-
-#### 5. Script to create needed procedures and triggers ( Script.sql )
-
-
