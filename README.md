@@ -1,5 +1,5 @@
 # doorbell.co
-Social Network for Neighborhoods (<a href="https://github.com/ronakf11/doorbell.co/blob/main/assets/GA1380_RF1999_PDS_Project%20Report.pdf"> PDF VERSION</a>)
+Social Network for Neighborhoods (<a href="https://github.com/ronakf11/doorbell.co/blob/main/assets/GA1380_RF1999_PDS_Project%20Report.pdf"> PDF VERSION </a>)
 
 
 Execution Process:
